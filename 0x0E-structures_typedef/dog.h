@@ -1,13 +1,13 @@
 #ifndef _DOG_H_
 #define _DOG_H_
 
-/*
+/**
  * dog_t - Typedef for struct dog
  */
 
 typedef struct dog dog_t;
 
-/*
+/**
  * struct dog - struct that stores some information about a dog
  * @name: name of the dog
  * @age: age of the dog
